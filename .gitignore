@@ -1,0 +1,4 @@
+# Project exclude paths
+/gmall-common/target/
+/gmall-mock/target/
+/gmall-realtime/target/
